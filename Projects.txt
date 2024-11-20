@@ -1,0 +1,10 @@
+Khaled Solutions - Multilingual Support Arabic,English,Hindi Etc , Authentication - https://github.com/ax-studios/pioneer-solutions-Orignal
+NetflixGPT - Movie Recomendation System with CHATGPT - https://github.com/IsmailKhanAxstudios/netflix-gpt
+Food Ordering App - Search Food By rating , Live Swiggy Api Hit , Add Items to Cart , Checkout , View Menu , Login LogOut - https://github.com/IsmailKhanAxstudios/food-order
+Gvs Solutions - Company Profile - https://github.com/IsmailKhanAxstudios/gvsolutions
+Axstudios Website - Company Profile - https://github.com/IsmailKhanAxstudios/axstudiosv3
+-----
+Company Project - Yahoo Project Task - https://docs.google.com/spreadsheets/d/1jdeI4btc80Fvb2aJ9tSyXr9glnoqF3AYORYdFga44eI/edit?gid=1140085369#gid=1140085369 
+Youtube Project - In Progress 
+Axstudios Project
+SASS Project - In Progress
